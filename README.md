@@ -1,6 +1,3 @@
-THIS IS A WORK IN PROGRESS
-=====================
-
 ![Data Pipeline Logo](https://raw.githubusercontent.com/awslabs/data-pipeline-samples/master/setup/logo/datapipelinelogo.jpeg)
 
 Data Pipeline Samples
@@ -184,7 +181,4 @@ This reposity contains a collection of Data Pipeline templates that should help 
 ##Disclaimer
 The samples in this repository are meant to help users get started with Data Pipeline. They may not be sufficient for production environments. Users should carefully inspect samples before running them.
 
-_Use at your own risk._
-
 Copyright 2011-2013 Amazon.com, Inc. or its affiliates. All Rights Reserved. Licensed under the [Amazon Software License](http://aws.amazon.com/asl/).
-
