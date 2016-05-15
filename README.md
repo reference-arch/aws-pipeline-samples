@@ -1,7 +1,8 @@
-![Data Pipeline Logo](https://raw.githubusercontent.com/awslabs/data-pipeline-samples/master/setup/logo/datapipelinelogo.jpeg)
-
 Data Pipeline Samples
 =====================
+
+![Data Pipeline Logo](https://raw.githubusercontent.com/reference-arch/aws-pipeline-samples/master/setup/logo/datapipelinelogo.jpeg)
+
 AWS Data Pipeline is a web service that you can use to automate the movement and transformation of data. With AWS Data Pipeline, you can define data-driven workflows, so that tasks can be dependent on the successful completion of previous tasks. You define the parameters of your data transformations and AWS Data Pipeline enforces the logic that you've set up.
 
 
@@ -9,7 +10,7 @@ AWS Data Pipeline is a web service that you can use to automate the movement and
 ##Setup
 1 Get the samples by cloning this repository. 
 ```sh
- $> git clone https://github.com/awslabs/data-pipeline-samples.git
+ $> git clone https://github.com/reference-arch/aws-pipeline-samples.git
 ```
 
 2 Set up a python [virtual environment](http://docs.python-guide.org/en/latest/dev/virtualenvs/) with the dependencies needed to run these examples. This includes the [awscli](https://github.com/aws/aws-cli) and [boto3](https://github.com/boto/boto3) packages.
@@ -18,7 +19,7 @@ AWS Data Pipeline is a web service that you can use to automate the movement and
  $> # install virtualenv
  $> pip install virtualenv
 
- $> # in the root directory of data-pipeline-samples:
+ $> # in the root directory of aws-pipeline-samples:
  $> virtualenv venv
  $> source venv/bin/activate
  $> pip install -r requirements.txt
